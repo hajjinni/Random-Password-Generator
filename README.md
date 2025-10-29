@@ -9,4 +9,3 @@ get all available characters
 randomly pick characters up to the length
 ensure we have atleast one of each character type
 ensure length is valid
-
